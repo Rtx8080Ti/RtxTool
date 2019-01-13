@@ -5,5 +5,5 @@
 
 # 快速入门
 ## 硬盘工具
-* [1、HDtune5.7中文版](http://xzc.197746.com/HDTunePro570.zip)
+* [1、HD Tune Pro 5.7中文版](http://xzc.197746.com/HDTunePro570.zip)
 支持XP\WIN7\WIN8\WIN10
