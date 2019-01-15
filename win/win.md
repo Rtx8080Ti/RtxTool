@@ -1,9 +1,5 @@
 ## WINDOWS平台软件
-
   RTX-Tools(RTX工具箱)是一个常用软件合集。由WangZhongdong(王中东)开发与维护。
-
-
-# 快速入门
 ## 硬盘工具
 标号|标题|日期
 ---|:--:|---:
@@ -16,7 +12,6 @@ A04|[AS_SSD_Benchmark1.6.4237](https://gsf-fl.softonic.com/f85/e12/1d5422603bd5d
 --|:--:|-:
 B01|[CPU-Z 1.87中文版](http://download.cpuid.com/cpu-z/cpu-z_1.87-cn.exe)|2019年1月15日
 B02|[GPU-Z 2.16.0中文版](http://down10.zol.com.cn/ceshi/GPUZ.2.16.0.exe)|2019年1月15日
-
 ## 跑分工具
 标号|标题|日期
 --|:--:|-:
