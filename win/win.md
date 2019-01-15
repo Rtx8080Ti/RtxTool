@@ -17,4 +17,7 @@ A04|[AS_SSD_Benchmark1.6.4237](https://gsf-fl.softonic.com/f85/e12/1d5422603bd5d
 B01|[CPU-Z 1.87中文版](http://download.cpuid.com/cpu-z/cpu-z_1.87-cn.exe)|2019年1月15日
 B02|[GPU-Z 2.16.0中文版](http://down10.zol.com.cn/ceshi/GPUZ.2.16.0.exe)|2019年1月15日
 
-
+## 跑分工具
+标号|标题|日期
+--|:--:|-:
+C01|[鲁大师5.15.18.1160](http://dl1.ludashi.com/ludashi/ludashisetup.exe)|2019年1月15日
