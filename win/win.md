@@ -17,3 +17,17 @@ B02|[GPU-Z 2.16.0中文版](http://down10.zol.com.cn/ceshi/GPUZ.2.16.0.exe)|2019
 --|:--:|-:
 C01|[FurMark_1.20.4.0(甜甜圈)](https://geeks3d.com/downloads/2019/FurMark_1.20.4.0_Setup.exe)|2019年1月22日
 C02|[鲁大师5.15.18.1160](http://dl1.ludashi.com/ludashi/ludashisetup.exe)|2019年1月15日
+## 系统原版镜像
+Windows 10 (business edition), version 1809 (Updated Feb 2019) (x64) - DVD (Chinese-Simplified)  
+文件大小
+4.85GB
+发布时间
+2019-02-20
+>ed2k://|file|cn_windows_10_business_edition_version_1809_updated_feb_2019_x64_dvd_56190772.iso|5208895488|40F70EC73C6CAD4B27BAA5EE6EC2EE61|/
+
+Windows 10 (consumer edition), version 1809 (Updated Feb 2019) (x64) - DVD (Chinese-Simplified)  
+文件大小
+4.95GB
+发布时间
+2019-02-20
+>ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_feb_2019_x64_dvd_4594b528.iso|5314138112|00759ED30EC13683204933C5925E16A0|/
