@@ -21,7 +21,7 @@ C02|[鲁大师5.15.18.1160](http://dl1.ludashi.com/ludashi/ludashisetup.exe)|201
 ## 下载工具
 标号|名称|日期
 --|:--:|-:
-D01|[迅雷精简版 1.5.3.288](http://down10.zol.com.cn/xiazai/Minithunder_dl7.2.8.3572.exe)|2019年1月22日
+D01|[迅雷精简版 1.5.3.288](http://down10.zol.com.cn/xiazai/Minithunder_dl7.2.8.3572.exe)|2019年3月11日
 
 ## 系统原版镜像
 Windows 10 (business edition), version 1809 (Updated Feb 2019) (x64) - DVD (Chinese-Simplified)  
