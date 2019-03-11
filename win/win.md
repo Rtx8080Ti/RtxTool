@@ -17,6 +17,12 @@ B02|[GPU-Z 2.16.0中文版](http://down10.zol.com.cn/ceshi/GPUZ.2.16.0.exe)|2019
 --|:--:|-:
 C01|[FurMark_1.20.4.0(甜甜圈)](https://geeks3d.com/downloads/2019/FurMark_1.20.4.0_Setup.exe)|2019年1月22日
 C02|[鲁大师5.15.18.1160](http://dl1.ludashi.com/ludashi/ludashisetup.exe)|2019年1月15日
+
+## 下载工具
+标号|名称|日期
+--|:--:|-:
+D01|[迅雷精简版 1.5.3.288](http://down10.zol.com.cn/xiazai/Minithunder_dl7.2.8.3572.exe)|2019年1月22日
+
 ## 系统原版镜像
 Windows 10 (business edition), version 1809 (Updated Feb 2019) (x64) - DVD (Chinese-Simplified)  
 文件大小
