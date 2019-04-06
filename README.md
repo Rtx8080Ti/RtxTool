@@ -1,7 +1,8 @@
 # RtxTool
 
-  RTX-Tools(RTX工具箱)是一个常用软件合集。由WangZhongdong(王中东)开发与维护。
-
+  RTX-Tools(RTX工具箱)是一个常用软件合集。由WangZhongdong(王中东)开发与维护。  
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)  
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 快速入门
 标号|标题|日期
