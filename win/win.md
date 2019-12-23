@@ -10,7 +10,7 @@ A04|[AS_SSD_Benchmark2.0.6821.41776](https://www.alex-is.de/progs/AS%20SSD%20Ben
 ## 硬件检测工具
 标号|名称|日期
 --|:--:|-:
-B01|[CPU-Z 1.89中文版](http://download.cpuid.com/cpu-z/cpu-z_1.89-cn.exe)|2019年6月26日
+B01|[CPU-Z 1.91中文版](http://download.cpuid.com/cpu-z/cpu-z_1.91-cn.exe)|2019年12月23日
 B02|[GPU-Z 2.16.0中文版](http://down10.zol.com.cn/ceshi/GPUZ.2.16.0.exe)|2019年1月15日
 ## 跑分工具
 标号|名称|日期
