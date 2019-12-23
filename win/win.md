@@ -4,8 +4,8 @@
 标号|名称|日期
 ---|:--:|---:
 A01|[HD Tune Pro 5.7中文版](http://xzc.197746.com/HDTunePro570.zip)|2019年1月15日
-A02|[DiskGenius501609_x64中文版](http://download.eassos.cn/DG501609_x64.zip)|2019年1月15日
-A03|[DiskGenius501609_x86中文版](http://download.eassos.cn/DG501609_x86.zip)|2019年1月15日
+A02|[DiskGeniusV5.2.0.884_x64中文版](http://download.eassos.cn/DG520884_x64.zip)|2019年12月23日
+A03|[DiskGeniusV5.2.0.884_x86中文版](http://download.eassos.cn/DG520884_x86.zip)|2019年1月15日
 A04|[AS_SSD_Benchmark2.0.6821.41776](https://www.alex-is.de/progs/AS%20SSD%20Benchmark.zip)|2019年3月29日
 ## 硬件检测工具
 标号|名称|日期
