@@ -7,7 +7,7 @@
 ## 快速入门
 标号|标题|日期
 ---|:--:|---:
-001|[CPU天梯图](https://raw.githubusercontent.com/Rtx8080Ti/RtxTool/master/win/%E5%A4%A9%E6%A2%AF%E5%9B%BE/%5BCPU%E5%A4%A9%E6%A2%AF%E5%9B%BE%5Dv1.0.1%2020191213.jpg)|2019年12月22日
-002|[显卡天梯图](https://raw.githubusercontent.com/Rtx8080Ti/RtxTool/master/win/%E5%A4%A9%E6%A2%AF%E5%9B%BE/%5B%E6%98%BE%E5%8D%A1%E5%A4%A9%E6%A2%AF%E5%9B%BE%5Dv5.3.3%2020191217.jpg)|2019年12月22日
+001|[CPU天梯图](http://tiebapic.baidu.com/forum/pic/item/03d10255b319ebc460e1cee09526cffc1f17160a.jpg)|2019年12月22日
+002|[显卡天梯图](http://tiebapic.baidu.com/forum/pic/item/1183fe246b600c3373a956b00d4c510fdbf9a1d3.jpg)|2019年12月22日
 003|[windows平台](https://github.com/Rtx8080Ti/RTX-Tools/blob/master/win/win.md)|2019年1月15日
 004|[macOS平台](https://github.com/Rtx8080Ti/RTX-Tools/blob/master/macOS/macOS.md)|2019年1月15日
